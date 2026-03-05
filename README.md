@@ -18,7 +18,7 @@ This project was developed for academic purposes.
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 
 - **Backend:** Go (Golang)
 - **Database:** PostgreSQL (Local installation)
@@ -68,11 +68,11 @@ git --version
 
 ## 🗄 Database Setup (Local PostgreSQL)
 
-### 1️⃣ Start PostgreSQL
+### 1️ Start PostgreSQL
 
 Make sure PostgreSQL service is running.
 
-### 2️⃣ Create Database
+### 2️ Create Database
 
 Open terminal and run:
 
@@ -94,7 +94,7 @@ Exit:
 
 ##  Installation & Running the Project
 
-### Clone the Repository
+### 1 Clone the Repository
 
 ```bash
 git clone https://github.com/Wajih1W1H/ESS.git
@@ -103,7 +103,7 @@ cd ESS
 
 ---
 
-###  Run Backend
+### 2 Run Backend
 
 ```bash
 cd electronic-shop-api
@@ -116,7 +116,7 @@ If successful, server should start at:
 ```
 http://localhost:8081
 ```
-###  Run Frontend
+### 3 Run Frontend
 
 ```bash
 cd electronic-shop-frontend
@@ -158,13 +158,13 @@ This project demonstrates:
 
 ---
 
-## 👤 Author
+##  Author
 
 Developed by: Wajih HAOUECH  
 Academic Project – 2026
 
 ---
 
-## 📜 License
+##  License
 
 This project is intended for educational use only.
