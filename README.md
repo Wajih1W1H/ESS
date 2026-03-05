@@ -66,7 +66,7 @@ git --version
 
 ---
 
-## 🗄 Database Setup (Local PostgreSQL)
+## Database Setup (Local PostgreSQL)
 
 ### 1️ Start PostgreSQL
 
@@ -83,7 +83,7 @@ psql -U postgres
 Then create database:
 
 ```sql
-CREATE DATABASE ess_db;
+CREATE DATABASE electronic_shop_db ;
 ```
 
 Exit:
