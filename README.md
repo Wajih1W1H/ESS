@@ -1,4 +1,4 @@
-# 🛒 Electronic Shop Management System (ESS)
+#  Electronic Shop Management System (ESS)
 
 ##  Overview
 
