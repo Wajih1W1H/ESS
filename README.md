@@ -41,7 +41,7 @@ ESS/
 │   ├── config/
 │   └── main.go
 │
-├── electronic-shop-frontend/   (if applicable)
+├── electronic-shop-frontend/   
 │
 └── README.md
 ```
